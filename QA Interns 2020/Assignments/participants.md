@@ -1,3 +1,5 @@
 # Add your name in an orderly fashion.
-Pranjal Timsina
+1. Sheshraj Kandel
+2. Anushka Shrestha
+3. Pranjal Timsina
 
