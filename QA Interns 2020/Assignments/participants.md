@@ -5,4 +5,5 @@
 3. Sunil Shrestha
 4. Krishna Upadhyay
 5. Saroj Poudel
+6. Pranjal Timsina
 
